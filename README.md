@@ -2,6 +2,8 @@
 
 <img src="./includes/header.png">
 
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahedAhmadAhadi" />
+
 
 <!--
 **ShahedAhmadAhadi/ShahedAhmadAhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
