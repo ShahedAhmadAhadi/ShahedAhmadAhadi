@@ -2,34 +2,28 @@
 
 <img src="./includes/header.png">
 
-
-
 <!--
 **ShahedAhmadAhadi/ShahedAhmadAhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
 <!-- - 🔭 I’m currently working on django, react -->
-- 🌱 I’m currently learning django & React
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ShahedAhmadAhadi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,fff,000&theme=graywhite" /><!-- wi*quL3fcV -->
-<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedAhmadAhadi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />  -->
 
-<!-- <table width="100%">
-<tr>
-   <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahedAhmadAhadi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-   </td>
-   <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedAhmadAhadi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000"/>
-   </td>
-   
-</tr> -->
+-   🌱 I’m currently learning django & React
+<!-- - 👯 I’m looking to collaborate on ...
+-   🤔 I’m looking for help with ...
+-   💬 Ask me about ...
+-   📫 How to reach me: ...
+-   😄 Pronouns: ...
+-   ⚡ Fun fact: ... -->
+## languages ->
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="python" style="vertical-align:top; margin:4px">
+</p>
 <table>
    
    <table width="100%">
@@ -47,7 +41,4 @@ Here are some ideas to get you started:-->
 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahedAhmadAhadi" />
 
-
-
 <img src="./includes/bottom.png">
-
