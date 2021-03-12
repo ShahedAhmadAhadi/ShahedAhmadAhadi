@@ -43,6 +43,6 @@ Here are some ideas to get you started:-->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedAhmadAhadi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight -->
 <table>
 
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahedAhmadAhadi" />
+<!-- <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShahedAhmadAhadi" /> -->
 
 <img src="./includes/bottom.png">
