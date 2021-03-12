@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <img src="./includes/header.png">
-<div align="center">
+<div align="center" style="margin-top: -30px;">
    <h3>
       <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" width="32"> Shahed Ahmad Ahadi | 🧐 Self Taught 💻 Full Stack Developer |  AFG <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" width="32">
    </h3>
