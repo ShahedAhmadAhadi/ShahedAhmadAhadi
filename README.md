@@ -1,6 +1,11 @@
 <!-- ### Hi there 👋 -->
 
 <img src="./includes/header.png">
+<div align="center">
+   <h3>
+      <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" width="32"> Shahed Ahmad Ahadi | 🧐 Self Taught 💻 Full Stack Developer |  AFG <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" width="32">
+   </h3>
+</div>
 
 <!--
 **ShahedAhmadAhadi/ShahedAhmadAhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
