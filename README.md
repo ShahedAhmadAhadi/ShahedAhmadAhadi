@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
  - 🔭 I’m currently working on Django, react
 
-- <!--  🌱 I’m currently learning django & React -->
+<!--  🌱 I’m currently learning django & React -->
 -   ✨ and learning next.js & rest_api
 <!-- - 👯 I’m looking to collaborate on ...
 -   🤔 I’m looking for help with ...
