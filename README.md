@@ -21,8 +21,8 @@ Here are some ideas to get you started:-->
 -   💬 Ask me about ...
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ... -->
-<img alt="Esmatullah Niazi github" src="https://visitor-badge.glitch.me/badge?page_id=ESMAT001">
--   📫 How to reach me: <a href="mailto:Shaheda.a16@gmail.com"></a>
+<img alt="Shahed Ahmad Ahadi github" src="https://visitor-badge.glitch.me/badge?page_id=ShahedAhmadAhadi">
+-   📫 How to reach me: <a href="mailto:Shaheda.a16@gmail.com">Gmail</a>
 
 ## Languages & frameworks ->
 <p align="center">
