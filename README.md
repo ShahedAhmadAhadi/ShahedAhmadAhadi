@@ -24,7 +24,7 @@ Here are some ideas to get you started:-->
 -   ⚡ Fun fact: ... -->
 -   📫 How to reach me: <a href="mailto:Shaheda.a16@gmail.com">Gmail</a>
 
-## Languages & frameworks ->
+## Languages & frameworks :
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
