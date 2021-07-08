@@ -2,6 +2,7 @@
 
 <img src="./includes/header.png">
 <div align="center" style="margin-top: -30px;">
+   <img alt="Shahed Ahmad Ahadi github" src="https://visitor-badge.glitch.me/badge?page_id=ShahedAhmadAhadi">
    <h3>
       <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" width="32"> Shahed Ahmad Ahadi | 🧐 Self Taught 💻 Full Stack Developer |  AFG <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" width="32">
    </h3>
@@ -21,7 +22,6 @@ Here are some ideas to get you started:-->
 -   💬 Ask me about ...
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ... -->
-<img alt="Shahed Ahmad Ahadi github" src="https://visitor-badge.glitch.me/badge?page_id=ShahedAhmadAhadi">
 -   📫 How to reach me: <a href="mailto:Shaheda.a16@gmail.com">Gmail</a>
 
 ## Languages & frameworks ->
