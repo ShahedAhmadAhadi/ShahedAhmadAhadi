@@ -24,10 +24,10 @@ Here are some ideas to get you started:-->
 -   ⚡ Fun fact: ... -->
 -   📫 How to reach me: <a href="mailto:Shaheda.a16@gmail.com">Gmail</a>
 
-## Languages & frameworks :
+<!-- ## Languages & frameworks :
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px; width:30px;">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px; width:30px;">
   <img src="./includes/java.svg" alt="java" style="vertical-align:top; margin:4px; width:30px;">
@@ -35,8 +35,8 @@ Here are some ideas to get you started:-->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px; width:30px;">
 <img src="./includes/bootstrap.svg" alt="bootsrap" style="vertical-align:top; margin:4px; width:30px;">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px; width:30px;">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px; width:30px;">
-</p>
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px; width:30px;"> -->
+</p> -->
 
 <table>
    
